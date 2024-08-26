@@ -1,6 +1,7 @@
 [
     {
         "route": "1",
+        "route_id": "1",
         "direction": "O",
         "dest": {
             "en": "Tai O ",
@@ -11,6 +12,7 @@
     },
     {
         "route": "1",
+        "route_id": "2",
         "direction": "I",
         "dest": {
             "en": "Mui Wo Ferry Pier",
@@ -22,6 +24,7 @@
     },
     {
         "route": "1R",
+        "route_id": "3",
         "direction": "O",
         "dest": {
             "en": "Ngong Ping ",
@@ -32,6 +35,7 @@
     },
     {
         "route": "2",
+        "route_id": "4",
         "direction": "O",
         "dest": {
             "en": "Ngong Ping ",
@@ -42,6 +46,7 @@
     },
     {
         "route": "2",
+        "route_id": "5",
         "direction": "I",
         "dest": {
             "en": "Mui Wo Ferry Pier",
@@ -53,6 +58,7 @@
     },
     {
         "route": "3M",
+        "route_id": "6",
         "direction": "O",
         "dest": {
             "en": "Mui Wo Ferry Pier ",
@@ -63,6 +69,7 @@
     },
     {
         "route": "3M",
+        "route_id": "8",
         "direction": "O",
         "dest": {
             "en": "Tung Chung Station Bus Terminus (from Pui O)",
@@ -73,6 +80,7 @@
     },
     {
         "route": "3M",
+        "route_id": "7",
         "direction": "I",
         "dest": {
             "en": "Tung Chung Station Bus Terminus",
@@ -84,6 +92,7 @@
     },
     {
         "route": "4",
+        "route_id": "12",
         "direction": "O",
         "dest": {
             "en": "Tong Fuk (to Shui Hau) ",
@@ -94,6 +103,7 @@
     },
     {
         "route": "4",
+        "route_id": "10",
         "direction": "O",
         "dest": {
             "en": "Mui Wo Ferry Pier ",
@@ -104,6 +114,7 @@
     },
     {
         "route": "4",
+        "route_id": "9",
         "direction": "I",
         "dest": {
             "en": "Tong Fuk",
@@ -115,6 +126,7 @@
     },
     {
         "route": "4",
+        "route_id": "11",
         "direction": "O",
         "dest": {
             "en": "Mui Wo Ferry Pier (from Shui Hau)",
@@ -125,6 +137,7 @@
     },
     {
         "route": "7S",
+        "route_id": "72",
         "direction": "O",
         "dest": {
             "en": "Mui Wo Ferry Pier ",
@@ -135,6 +148,7 @@
     },
     {
         "route": "7S",
+        "route_id": "70",
         "direction": "I",
         "dest": {
             "en": "Lai Chi Yuen Cemetery",
@@ -146,6 +160,7 @@
     },
     {
         "route": "11",
+        "route_id": "17",
         "direction": "O",
         "dest": {
             "en": "Tung Chung Station Bus Terminus (from Sha Tsui)",
@@ -156,6 +171,7 @@
     },
     {
         "route": "11",
+        "route_id": "13",
         "direction": "I",
         "dest": {
             "en": "Tai O",
@@ -167,6 +183,7 @@
     },
     {
         "route": "11",
+        "route_id": "18",
         "direction": "O",
         "dest": {
             "en": "Tung Chung Station Bus Terminus (from Shui Hau)",
@@ -177,6 +194,7 @@
     },
     {
         "route": "11",
+        "route_id": "14",
         "direction": "I",
         "dest": {
             "en": "Tung Chung Station Bus Terminus",
@@ -188,6 +206,7 @@
     },
     {
         "route": "11A",
+        "route_id": "15",
         "direction": "O",
         "dest": {
             "en": "Shek Pik ",
@@ -198,6 +217,7 @@
     },
     {
         "route": "11A",
+        "route_id": "16",
         "direction": "I",
         "dest": {
             "en": "Tung Chung Station Bus Terminus",
@@ -209,6 +229,7 @@
     },
     {
         "route": "21",
+        "route_id": "19",
         "direction": "O",
         "dest": {
             "en": "Tai O ",
@@ -219,6 +240,7 @@
     },
     {
         "route": "21",
+        "route_id": "20",
         "direction": "I",
         "dest": {
             "en": "Ngong Ping",
@@ -230,6 +252,7 @@
     },
     {
         "route": "23",
+        "route_id": "22",
         "direction": "O",
         "dest": {
             "en": "Tung Chung Tat Tung Road Bus Terminus ",
@@ -240,6 +263,7 @@
     },
     {
         "route": "23",
+        "route_id": "21",
         "direction": "I",
         "dest": {
             "en": "Ngong Ping",
@@ -251,6 +275,7 @@
     },
     {
         "route": "34",
+        "route_id": "23",
         "direction": "O",
         "dest": {
             "en": "Shek Mun Kap ",
@@ -261,6 +286,7 @@
     },
     {
         "route": "34",
+        "route_id": "24",
         "direction": "I",
         "dest": {
             "en": "Tung Chung Tat Tung Road Bus Terminus",
@@ -272,6 +298,7 @@
     },
     {
         "route": "34S",
+        "route_id": "71",
         "direction": "O",
         "dest": {
             "en": "Cemetery Area No. 18 (Circular) ",
@@ -282,6 +309,7 @@
     },
     {
         "route": "36",
+        "route_id": "101",
         "direction": "O",
         "dest": {
             "en": "Disneyland ",
@@ -292,6 +320,7 @@
     },
     {
         "route": "36",
+        "route_id": "102",
         "direction": "I",
         "dest": {
             "en": "Tung Chung Tat Tung Road Bus Terminus",
@@ -303,6 +332,7 @@
     },
     {
         "route": "36X",
+        "route_id": "100",
         "direction": "O",
         "dest": {
             "en": "Disneyland ",
@@ -313,6 +343,7 @@
     },
     {
         "route": "37",
+        "route_id": "80",
         "direction": "O",
         "dest": {
             "en": "Yat Tung Estate ",
@@ -323,6 +354,7 @@
     },
     {
         "route": "37",
+        "route_id": "78",
         "direction": "I",
         "dest": {
             "en": "Ying Tung Estate",
@@ -334,6 +366,7 @@
     },
     {
         "route": "37A",
+        "route_id": "104",
         "direction": "O",
         "dest": {
             "en": "Tung Chung Station Bus Terminus (Circular) ",
@@ -344,6 +377,7 @@
     },
     {
         "route": "37H",
+        "route_id": "96",
         "direction": "O",
         "dest": {
             "en": "North Lantau Hospital (Circular) ",
@@ -354,6 +388,7 @@
     },
     {
         "route": "37M",
+        "route_id": "82",
         "direction": "O",
         "dest": {
             "en": "Tung Chung Station Bus Terminus (Circular) ",
@@ -364,6 +399,7 @@
     },
     {
         "route": "37P",
+        "route_id": "63",
         "direction": "O",
         "dest": {
             "en": "Caribbean Coast ",
@@ -374,6 +410,7 @@
     },
     {
         "route": "37S",
+        "route_id": "75",
         "direction": "O",
         "dest": {
             "en": "Tung Chung Station Bus Terminus ",
@@ -384,6 +421,7 @@
     },
     {
         "route": "38",
+        "route_id": "30",
         "direction": "O",
         "dest": {
             "en": "Tung Chung Station Bus Terminus (Circular) ",
@@ -394,6 +432,7 @@
     },
     {
         "route": "38X",
+        "route_id": "29",
         "direction": "O",
         "dest": {
             "en": "Tung Chung Station Bus Terminus (Circular) ",
@@ -404,6 +443,7 @@
     },
     {
         "route": "39M",
+        "route_id": "95",
         "direction": "O",
         "dest": {
             "en": "Mun Tung Estate  (Circular Route) ",
@@ -414,6 +454,7 @@
     },
     {
         "route": "A35",
+        "route_id": "90",
         "direction": "O",
         "dest": {
             "en": "HZMB Hong Kong Port ",
@@ -424,6 +465,7 @@
     },
     {
         "route": "A35",
+        "route_id": "91",
         "direction": "I",
         "dest": {
             "en": "Mui Wo Ferry Pier",
@@ -435,6 +477,7 @@
     },
     {
         "route": "B2",
+        "route_id": "38",
         "direction": "O",
         "dest": {
             "en": "Yuen Long MTR Station ",
@@ -445,6 +488,7 @@
     },
     {
         "route": "B2",
+        "route_id": "37",
         "direction": "I",
         "dest": {
             "en": "Shenzhen Bay Port",
@@ -456,6 +500,7 @@
     },
     {
         "route": "B2P",
+        "route_id": "33",
         "direction": "O",
         "dest": {
             "en": "Shenzhen Bay Port ",
@@ -466,6 +511,7 @@
     },
     {
         "route": "B2P",
+        "route_id": "34",
         "direction": "I",
         "dest": {
             "en": "Tin Shui Wai (Tin Tsz Estate)",
@@ -477,6 +523,7 @@
     },
     {
         "route": "B2X",
+        "route_id": "36",
         "direction": "O",
         "dest": {
             "en": "Tin Shui Wai (Tin Yiu Estate) ",
@@ -487,6 +534,7 @@
     },
     {
         "route": "B2X",
+        "route_id": "35",
         "direction": "I",
         "dest": {
             "en": "Shenzhen Bay Port",
@@ -498,6 +546,7 @@
     },
     {
         "route": "B4",
+        "route_id": "87",
         "direction": "O",
         "dest": {
             "en": "Airport (Passenger Terminal Building) (Circular) ",
@@ -508,6 +557,7 @@
     },
     {
         "route": "B6",
+        "route_id": "88",
         "direction": "O",
         "dest": {
             "en": "Mun Tung Estate ",
@@ -518,6 +568,7 @@
     },
     {
         "route": "B6",
+        "route_id": "89",
         "direction": "I",
         "dest": {
             "en": "HZMB Hong Kong Port",
@@ -529,6 +580,7 @@
     },
     {
         "route": "N1",
+        "route_id": "40",
         "direction": "O",
         "dest": {
             "en": "Tai O ",
@@ -539,6 +591,7 @@
     },
     {
         "route": "N35",
+        "route_id": "92",
         "direction": "O",
         "dest": {
             "en": "HZMB Hong Kong Port ",
@@ -549,6 +602,7 @@
     },
     {
         "route": "N35",
+        "route_id": "93",
         "direction": "I",
         "dest": {
             "en": "Mui Wo Ferry Pier",
@@ -560,6 +614,7 @@
     },
     {
         "route": "N37",
+        "route_id": "86",
         "direction": "O",
         "dest": {
             "en": "Tung Chung Station Bus Terminus (Circular) ",
@@ -570,6 +625,7 @@
     },
     {
         "route": "N38",
+        "route_id": "44",
         "direction": "O",
         "dest": {
             "en": "Tung Chung Station Bus Terminus ",
@@ -580,6 +636,7 @@
     },
     {
         "route": "N38",
+        "route_id": "45",
         "direction": "O",
         "dest": {
             "en": "Yat Tung Estate ",
@@ -590,6 +647,7 @@
     },
     {
         "route": "NB2",
+        "route_id": "110",
         "direction": "O",
         "dest": {
             "en": "Yuen Long MTR Station (Circular) ",
@@ -600,6 +658,7 @@
     },
     {
         "route": "X11R",
+        "route_id": "108",
         "direction": "O",
         "dest": {
             "en": "Tai O ",
@@ -610,6 +669,7 @@
     },
     {
         "route": "X11R",
+        "route_id": "109",
         "direction": "I",
         "dest": {
             "en": "Sheraton Hong Kong Tung Chung Hotel",
