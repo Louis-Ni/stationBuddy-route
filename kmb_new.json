@@ -617,7 +617,9 @@
       "sc": "尖沙咀码头"
     },
     "co": "KMB",
-    "serviceType": "1"
+    "serviceType": "1",
+    "gtfsId": "8114",
+    "gtfsBound": "1"
   },
   {
     "route": "5P",
@@ -1504,9 +1506,7 @@
       "sc": "油塘"
     },
     "co": "KMB",
-    "serviceType": "1",
-    "gtfsId": "8092",
-    "gtfsBound": "2"
+    "serviceType": "1"
   },
   {
     "route": "14H",
@@ -1979,9 +1979,7 @@
       "sc": "顺天"
     },
     "co": "KMB",
-    "serviceType": "1",
-    "gtfsId": "8642",
-    "gtfsBound": "1"
+    "serviceType": "1"
   },
   {
     "route": "27",
@@ -2018,9 +2016,7 @@
       "sc": "顺天"
     },
     "co": "KMB",
-    "serviceType": "1",
-    "gtfsId": "1000467",
-    "gtfsBound": "2"
+    "serviceType": "1"
   },
   {
     "route": "28",
@@ -4602,7 +4598,9 @@
       "sc": "大埔墟站"
     },
     "co": "KMB",
-    "serviceType": "1"
+    "serviceType": "1",
+    "gtfsId": "1850",
+    "gtfsBound": "1"
   },
   {
     "route": "64K",
@@ -4626,7 +4624,9 @@
       "sc": "元朗(西)"
     },
     "co": "KMB",
-    "serviceType": "1"
+    "serviceType": "1",
+    "gtfsId": "1850",
+    "gtfsBound": "2"
   },
   {
     "route": "64P",
@@ -4650,7 +4650,9 @@
       "sc": "锦上路站"
     },
     "co": "KMB",
-    "serviceType": "1"
+    "serviceType": "1",
+    "gtfsId": "8207",
+    "gtfsBound": "1"
   },
   {
     "route": "64X",
@@ -4674,9 +4676,7 @@
       "sc": "大埔中心"
     },
     "co": "KMB",
-    "serviceType": "1",
-    "gtfsId": "1273",
-    "gtfsBound": "1"
+    "serviceType": "1"
   },
   {
     "route": "65R",
@@ -6837,32 +6837,6 @@
     "gtfsBound": "2"
   },
   {
-    "route": "82P",
-    "direction": "O",
-    "dest": {
-      "en": "DIAMOND HILL STATION",
-      "tc": "鑽石山站",
-      "sc": "钻石山站"
-    },
-    "co": "KMB",
-    "serviceType": "1",
-    "gtfsId": "1343",
-    "gtfsBound": "1"
-  },
-  {
-    "route": "82P",
-    "direction": "I",
-    "dest": {
-      "en": "SHEK MUN ESTATE",
-      "tc": "碩門邨",
-      "sc": "硕门邨"
-    },
-    "co": "KMB",
-    "serviceType": "1",
-    "gtfsId": "8188",
-    "gtfsBound": "1"
-  },
-  {
     "route": "82X",
     "direction": "O",
     "dest": {
@@ -8026,7 +8000,9 @@
       "sc": "观塘"
     },
     "co": "KMB",
-    "serviceType": "1"
+    "serviceType": "1",
+    "gtfsId": "8363",
+    "gtfsBound": "1"
   },
   {
     "route": "92",
@@ -8297,7 +8273,9 @@
       "sc": "大埔工业邨"
     },
     "co": "KMB",
-    "serviceType": "2"
+    "serviceType": "2",
+    "gtfsId": "1000543",
+    "gtfsBound": "1"
   },
   {
     "route": "96",
@@ -9182,32 +9160,6 @@
     "co": "KMB",
     "serviceType": "1",
     "gtfsId": "1497",
-    "gtfsBound": "1"
-  },
-  {
-    "route": "111",
-    "direction": "O",
-    "dest": {
-      "en": "CENTRAL (MACAU FERRY)",
-      "tc": "中環(港澳碼頭)",
-      "sc": "中环(港澳码头)"
-    },
-    "co": "KMB",
-    "serviceType": "3",
-    "gtfsId": "1000126",
-    "gtfsBound": "1"
-  },
-  {
-    "route": "111",
-    "direction": "O",
-    "dest": {
-      "en": "CENTRAL (MACAU FERRY)",
-      "tc": "中環(港澳碼頭)",
-      "sc": "中环(港澳码头)"
-    },
-    "co": "KMB",
-    "serviceType": "9",
-    "gtfsId": "1000128",
     "gtfsBound": "1"
   },
   {
@@ -10639,7 +10591,9 @@
       "sc": "上村(循环线)"
     },
     "co": "KMB",
-    "serviceType": "1"
+    "serviceType": "1",
+    "gtfsId": "1854",
+    "gtfsBound": "1"
   },
   {
     "route": "251B",
@@ -11216,7 +11170,9 @@
       "sc": "粉岭(祥华)"
     },
     "co": "KMB",
-    "serviceType": "1"
+    "serviceType": "1",
+    "gtfsId": "8677",
+    "gtfsBound": "1"
   },
   {
     "route": "261X",
@@ -11422,7 +11378,9 @@
       "sc": "荃湾站"
     },
     "co": "KMB",
-    "serviceType": "1"
+    "serviceType": "1",
+    "gtfsId": "1000545",
+    "gtfsBound": "1"
   },
   {
     "route": "265P",
@@ -11433,7 +11391,9 @@
       "sc": "天恩邨"
     },
     "co": "KMB",
-    "serviceType": "1"
+    "serviceType": "1",
+    "gtfsId": "1000545",
+    "gtfsBound": "2"
   },
   {
     "route": "265S",
@@ -11471,8 +11431,8 @@
     },
     "co": "KMB",
     "serviceType": "1",
-    "gtfsId": "1111",
-    "gtfsBound": "2"
+    "gtfsId": "1000546",
+    "gtfsBound": "1"
   },
   {
     "route": "267X",
@@ -12840,7 +12800,9 @@
       "sc": "粉岭(祥华)"
     },
     "co": "KMB",
-    "serviceType": "1"
+    "serviceType": "1",
+    "gtfsId": "8758",
+    "gtfsBound": "1"
   },
   {
     "route": "276C",
@@ -13744,7 +13706,9 @@
       "sc": "荃湾西站"
     },
     "co": "KMB",
-    "serviceType": "1"
+    "serviceType": "1",
+    "gtfsId": "1000315",
+    "gtfsBound": "1"
   },
   {
     "route": "290E",
@@ -13755,7 +13719,9 @@
       "sc": "将军澳工业邨"
     },
     "co": "KMB",
-    "serviceType": "1"
+    "serviceType": "1",
+    "gtfsId": "1000315",
+    "gtfsBound": "2"
   },
   {
     "route": "290X",
@@ -17172,6 +17138,19 @@
       "sc": "机场(地面运输中心)"
     },
     "co": "KMB",
+    "serviceType": "2",
+    "gtfsId": "8396",
+    "gtfsBound": "1"
+  },
+  {
+    "route": "A47X",
+    "direction": "O",
+    "dest": {
+      "en": "AIRPORT (GROUND TRANSPORTATION CENTRE)",
+      "tc": "機場(地面運輸中心)",
+      "sc": "机场(地面运输中心)"
+    },
+    "co": "KMB",
     "serviceType": "3",
     "gtfsId": "8396",
     "gtfsBound": "1"
@@ -17201,6 +17180,17 @@
     "serviceType": "1",
     "gtfsId": "8361",
     "gtfsBound": "2"
+  },
+  {
+    "route": "A47X",
+    "direction": "I",
+    "dest": {
+      "en": "TAI PO (TAI WO)",
+      "tc": "大埔(太和)",
+      "sc": "大埔(太和)"
+    },
+    "co": "KMB",
+    "serviceType": "2"
   },
   {
     "route": "A47X",
@@ -17610,7 +17600,9 @@
       "sc": "航天城"
     },
     "co": "KMB",
-    "serviceType": "1"
+    "serviceType": "1",
+    "gtfsId": "1000027",
+    "gtfsBound": "1"
   },
   {
     "route": "E36P",
@@ -17868,7 +17860,9 @@
       "sc": "尖沙咀码头(循环线)"
     },
     "co": "KMB",
-    "serviceType": "1"
+    "serviceType": "1",
+    "gtfsId": "1000542",
+    "gtfsBound": "1"
   },
   {
     "route": "N3D",
@@ -18554,7 +18548,9 @@
       "sc": "粉岭(联和墟)"
     },
     "co": "KMB",
-    "serviceType": "1"
+    "serviceType": "1",
+    "gtfsId": "8626",
+    "gtfsBound": "2"
   },
   {
     "route": "N39",
@@ -19398,7 +19394,9 @@
       "sc": "粉岭(祥华)"
     },
     "co": "KMB",
-    "serviceType": "1"
+    "serviceType": "1",
+    "gtfsId": "8199",
+    "gtfsBound": "2"
   },
   {
     "route": "T277",
