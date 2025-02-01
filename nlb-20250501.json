@@ -1,0 +1,694 @@
+[
+  {
+    "route": "1",
+    "routeId": "2",
+    "direction": "O",
+    "dest": {
+      "en": "Mui Wo Ferry Pier ",
+      "tc": "梅窩碼頭 ",
+      "sc": "梅窝码头 "
+    },
+    "co": "NLB"
+  },
+  {
+    "route": "1",
+    "routeId": "1",
+    "direction": "I",
+    "dest": {
+      "en": "Tai O",
+      "tc": "大澳",
+      "sc": "大澳"
+    },
+    "co": "NLB",
+    "region": "Mui Wo Ferry Pier > Tai O"
+  },
+  {
+    "route": "1R",
+    "routeId": "3",
+    "direction": "O",
+    "dest": {
+      "en": "Ngong Ping ",
+      "tc": "昂坪 ",
+      "sc": "昂坪 "
+    },
+    "co": "NLB"
+  },
+  {
+    "route": "2",
+    "routeId": "5",
+    "direction": "O",
+    "dest": {
+      "en": "Mui Wo Ferry Pier ",
+      "tc": "梅窩碼頭 ",
+      "sc": "梅窝码头 "
+    },
+    "co": "NLB"
+  },
+  {
+    "route": "2",
+    "routeId": "4",
+    "direction": "I",
+    "dest": {
+      "en": "Ngong Ping",
+      "tc": "昂坪",
+      "sc": "昂坪"
+    },
+    "co": "NLB",
+    "region": "Mui Wo Ferry Pier > Ngong Ping"
+  },
+  {
+    "route": "3M",
+    "routeId": "8",
+    "direction": "O",
+    "dest": {
+      "en": "Tung Chung Station Bus Terminus (from Pui O)",
+      "tc": "東涌站巴士總站 (貝澳開)",
+      "sc": "东涌站巴士总站 (贝澳开)"
+    },
+    "co": "NLB"
+  },
+  {
+    "route": "3M",
+    "routeId": "6",
+    "direction": "I",
+    "dest": {
+      "en": "Mui Wo Ferry Pier",
+      "tc": "梅窩碼頭",
+      "sc": "梅窝码头"
+    },
+    "co": "NLB",
+    "region": "Tung Chung Station Bus Terminus > Mui Wo Ferry Pier"
+  },
+  {
+    "route": "3M",
+    "routeId": "7",
+    "direction": "I",
+    "dest": {
+      "en": "Tung Chung Station Bus Terminus",
+      "tc": "東涌站巴士總站",
+      "sc": "东涌站巴士总站"
+    },
+    "co": "NLB",
+    "region": "Mui Wo Ferry Pier > Tung Chung Station Bus Terminus"
+  },
+  {
+    "route": "4",
+    "routeId": "11",
+    "direction": "O",
+    "dest": {
+      "en": "Mui Wo Ferry Pier (from Shui Hau)",
+      "tc": "梅窩碼頭 (水口開)",
+      "sc": "梅窝码头 (水口开)"
+    },
+    "co": "NLB"
+  },
+  {
+    "route": "4",
+    "routeId": "10",
+    "direction": "O",
+    "dest": {
+      "en": "Mui Wo Ferry Pier ",
+      "tc": "梅窩碼頭 ",
+      "sc": "梅窝码头 "
+    },
+    "co": "NLB"
+  },
+  {
+    "route": "4",
+    "routeId": "12",
+    "direction": "I",
+    "dest": {
+      "en": "Tong Fuk (to Shui Hau)",
+      "tc": "塘福 (至水口)",
+      "sc": "塘福 (至水口)"
+    },
+    "co": "NLB",
+    "region": "Mui Wo Ferry Pier > Tong Fuk (to Shui Hau)"
+  },
+  {
+    "route": "4",
+    "routeId": "9",
+    "direction": "I",
+    "dest": {
+      "en": "Tong Fuk",
+      "tc": "塘福",
+      "sc": "塘福"
+    },
+    "co": "NLB",
+    "region": "Mui Wo Ferry Pier > Tong Fuk"
+  },
+  {
+    "route": "7S",
+    "routeId": "70",
+    "direction": "O",
+    "dest": {
+      "en": "Lai Chi Yuen Cemetery ",
+      "tc": "禮智園墳場 ",
+      "sc": "礼智园坟场 "
+    },
+    "co": "NLB"
+  },
+  {
+    "route": "7S",
+    "routeId": "72",
+    "direction": "I",
+    "dest": {
+      "en": "Mui Wo Ferry Pier",
+      "tc": "梅窩碼頭",
+      "sc": "梅窝码头"
+    },
+    "co": "NLB",
+    "region": "Lai Chi Yuen Cemetery > Mui Wo Ferry Pier"
+  },
+  {
+    "route": "11",
+    "routeId": "13",
+    "direction": "O",
+    "dest": {
+      "en": "Tai O ",
+      "tc": "大澳 ",
+      "sc": "大澳 "
+    },
+    "co": "NLB"
+  },
+  {
+    "route": "11",
+    "routeId": "17",
+    "direction": "O",
+    "dest": {
+      "en": "Tung Chung Station Bus Terminus (from Sha Tsui)",
+      "tc": "東涌站巴士總站 (沙咀開)",
+      "sc": "东涌站巴士总站 (沙咀开)"
+    },
+    "co": "NLB"
+  },
+  {
+    "route": "11",
+    "routeId": "14",
+    "direction": "I",
+    "dest": {
+      "en": "Tung Chung Station Bus Terminus",
+      "tc": "東涌站巴士總站",
+      "sc": "东涌站巴士总站"
+    },
+    "co": "NLB",
+    "region": "Tai O > Tung Chung Station Bus Terminus"
+  },
+  {
+    "route": "11",
+    "routeId": "18",
+    "direction": "O",
+    "dest": {
+      "en": "Tung Chung Station Bus Terminus (from Shui Hau)",
+      "tc": "東涌站巴士總站 (水口開)",
+      "sc": "东涌站巴士总站 (水口开)"
+    },
+    "co": "NLB"
+  },
+  {
+    "route": "11A",
+    "routeId": "16",
+    "direction": "O",
+    "dest": {
+      "en": "Tung Chung Station Bus Terminus ",
+      "tc": "東涌站巴士總站 ",
+      "sc": "东涌站巴士总站 "
+    },
+    "co": "NLB"
+  },
+  {
+    "route": "11A",
+    "routeId": "15",
+    "direction": "I",
+    "dest": {
+      "en": "Shek Pik",
+      "tc": "石壁",
+      "sc": "石壁"
+    },
+    "co": "NLB",
+    "region": "Tung Chung Station Bus Terminus > Shek Pik"
+  },
+  {
+    "route": "21",
+    "routeId": "20",
+    "direction": "O",
+    "dest": {
+      "en": "Ngong Ping ",
+      "tc": "昂坪 ",
+      "sc": "昂坪 "
+    },
+    "co": "NLB"
+  },
+  {
+    "route": "21",
+    "routeId": "19",
+    "direction": "I",
+    "dest": {
+      "en": "Tai O",
+      "tc": "大澳",
+      "sc": "大澳"
+    },
+    "co": "NLB",
+    "region": "Ngong Ping > Tai O"
+  },
+  {
+    "route": "23",
+    "routeId": "21",
+    "direction": "O",
+    "dest": {
+      "en": "Ngong Ping ",
+      "tc": "昂坪 ",
+      "sc": "昂坪 "
+    },
+    "co": "NLB"
+  },
+  {
+    "route": "23",
+    "routeId": "22",
+    "direction": "I",
+    "dest": {
+      "en": "Tung Chung Tat Tung Road Bus Terminus",
+      "tc": "東涌達東路巴士總站",
+      "sc": "东涌达东路巴士总站"
+    },
+    "co": "NLB",
+    "region": "Ngong Ping > Tung Chung Tat Tung Road Bus Terminus"
+  },
+  {
+    "route": "34",
+    "routeId": "24",
+    "direction": "O",
+    "dest": {
+      "en": "Tung Chung Tat Tung Road Bus Terminus ",
+      "tc": "東涌達東路巴士總站 ",
+      "sc": "东涌达东路巴士总站 "
+    },
+    "co": "NLB"
+  },
+  {
+    "route": "34",
+    "routeId": "23",
+    "direction": "I",
+    "dest": {
+      "en": "Shek Mun Kap",
+      "tc": "石門甲",
+      "sc": "石门甲"
+    },
+    "co": "NLB",
+    "region": "Tung Chung Tat Tung Road Bus Terminus > Shek Mun Kap"
+  },
+  {
+    "route": "34S",
+    "routeId": "71",
+    "direction": "O",
+    "dest": {
+      "en": "Cemetery Area No. 18 (Circular) ",
+      "tc": "十八區墳場 (循環線) ",
+      "sc": "十八区坟场 (循环线) "
+    },
+    "co": "NLB"
+  },
+  {
+    "route": "36",
+    "routeId": "101",
+    "direction": "O",
+    "dest": {
+      "en": "Disneyland ",
+      "tc": "迪士尼樂園 ",
+      "sc": "迪士尼乐园 "
+    },
+    "co": "NLB"
+  },
+  {
+    "route": "36",
+    "routeId": "102",
+    "direction": "I",
+    "dest": {
+      "en": "Tung Chung Tat Tung Road Bus Terminus",
+      "tc": "東涌達東路巴士總站",
+      "sc": "东涌达东路巴士总站"
+    },
+    "co": "NLB",
+    "region": "Disneyland > Tung Chung Tat Tung Road Bus Terminus"
+  },
+  {
+    "route": "36X",
+    "routeId": "100",
+    "direction": "O",
+    "dest": {
+      "en": "Disneyland ",
+      "tc": "迪士尼樂園 ",
+      "sc": "迪士尼乐园 "
+    },
+    "co": "NLB"
+  },
+  {
+    "route": "37",
+    "routeId": "78",
+    "direction": "O",
+    "dest": {
+      "en": "Ying Tung Estate ",
+      "tc": "迎東邨 ",
+      "sc": "迎东邨 "
+    },
+    "co": "NLB"
+  },
+  {
+    "route": "37",
+    "routeId": "80",
+    "direction": "I",
+    "dest": {
+      "en": "Yat Tung Estate",
+      "tc": "逸東邨",
+      "sc": "逸东邨"
+    },
+    "co": "NLB",
+    "region": "Ying Tung Estate > Yat Tung Estate"
+  },
+  {
+    "route": "37A",
+    "routeId": "104",
+    "direction": "O",
+    "dest": {
+      "en": "Tung Chung Station Bus Terminus (Circular) ",
+      "tc": "東涌站巴士總站 (循環線) ",
+      "sc": "东涌站巴士总站 (循环线) "
+    },
+    "co": "NLB"
+  },
+  {
+    "route": "37H",
+    "routeId": "96",
+    "direction": "O",
+    "dest": {
+      "en": "North Lantau Hospital (Circular) ",
+      "tc": "北大嶼山醫院 (循環線) ",
+      "sc": "北大屿山医院 (循环线) "
+    },
+    "co": "NLB"
+  },
+  {
+    "route": "37M",
+    "routeId": "82",
+    "direction": "O",
+    "dest": {
+      "en": "Tung Chung Station Bus Terminus (Circular) ",
+      "tc": "東涌站巴士總站 (循環線) ",
+      "sc": "东涌站巴士总站 (循环线) "
+    },
+    "co": "NLB"
+  },
+  {
+    "route": "37P",
+    "routeId": "63",
+    "direction": "O",
+    "dest": {
+      "en": "Caribbean Coast ",
+      "tc": "映灣園 ",
+      "sc": "映湾园 "
+    },
+    "co": "NLB"
+  },
+  {
+    "route": "37S",
+    "routeId": "75",
+    "direction": "O",
+    "dest": {
+      "en": "Tung Chung Station Bus Terminus ",
+      "tc": "東涌站巴士總站 ",
+      "sc": "东涌站巴士总站 "
+    },
+    "co": "NLB"
+  },
+  {
+    "route": "38",
+    "routeId": "30",
+    "direction": "O",
+    "dest": {
+      "en": "Tung Chung Station Bus Terminus (Circular) ",
+      "tc": "東涌站巴士總站 (循環線) ",
+      "sc": "东涌站巴士总站 (循环线) "
+    },
+    "co": "NLB"
+  },
+  {
+    "route": "38X",
+    "routeId": "29",
+    "direction": "O",
+    "dest": {
+      "en": "Tung Chung Station Bus Terminus (Circular) ",
+      "tc": "東涌站巴士總站 (循環線) ",
+      "sc": "东涌站巴士总站 (循环线) "
+    },
+    "co": "NLB"
+  },
+  {
+    "route": "39M",
+    "routeId": "95",
+    "direction": "O",
+    "dest": {
+      "en": "Mun Tung Estate  (Circular Route) ",
+      "tc": "滿東邨 (循環線) ",
+      "sc": "满东邨 (循环线) "
+    },
+    "co": "NLB"
+  },
+  {
+    "route": "A35",
+    "routeId": "90",
+    "direction": "O",
+    "dest": {
+      "en": "HZMB Hong Kong Port ",
+      "tc": "大橋香港口岸 ",
+      "sc": "大桥香港口岸 "
+    },
+    "co": "NLB"
+  },
+  {
+    "route": "A35",
+    "routeId": "91",
+    "direction": "I",
+    "dest": {
+      "en": "Mui Wo Ferry Pier",
+      "tc": "梅窩碼頭",
+      "sc": "梅窝码头"
+    },
+    "co": "NLB",
+    "region": "HZMB Hong Kong Port > Mui Wo Ferry Pier"
+  },
+  {
+    "route": "B2",
+    "routeId": "37",
+    "direction": "O",
+    "dest": {
+      "en": "Shenzhen Bay Port ",
+      "tc": "深圳灣口岸 ",
+      "sc": "深圳湾口岸 "
+    },
+    "co": "NLB"
+  },
+  {
+    "route": "B2",
+    "routeId": "38",
+    "direction": "I",
+    "dest": {
+      "en": "Yuen Long MTR Station",
+      "tc": "元朗港鐵站",
+      "sc": "元朗港铁站"
+    },
+    "co": "NLB",
+    "region": "Shenzhen Bay Port > Yuen Long MTR Station"
+  },
+  {
+    "route": "B2P",
+    "routeId": "34",
+    "direction": "O",
+    "dest": {
+      "en": "Tin Shui Wai (Tin Tsz Estate) ",
+      "tc": "天水圍 (天慈邨) ",
+      "sc": "天水围 (天慈邨) "
+    },
+    "co": "NLB"
+  },
+  {
+    "route": "B2P",
+    "routeId": "33",
+    "direction": "I",
+    "dest": {
+      "en": "Shenzhen Bay Port",
+      "tc": "深圳灣口岸",
+      "sc": "深圳湾口岸"
+    },
+    "co": "NLB",
+    "region": "Tin Shui Wai (Tin Tsz Estate) > Shenzhen Bay Port"
+  },
+  {
+    "route": "B2X",
+    "routeId": "35",
+    "direction": "O",
+    "dest": {
+      "en": "Shenzhen Bay Port ",
+      "tc": "深圳灣口岸 ",
+      "sc": "深圳湾口岸 "
+    },
+    "co": "NLB"
+  },
+  {
+    "route": "B2X",
+    "routeId": "36",
+    "direction": "I",
+    "dest": {
+      "en": "Tin Shui Wai (Tin Yiu Estate)",
+      "tc": "天水圍 (天耀邨)",
+      "sc": "天水围 (天耀邨)"
+    },
+    "co": "NLB",
+    "region": "Shenzhen Bay Port > Tin Shui Wai (Tin Yiu Estate)"
+  },
+  {
+    "route": "B4",
+    "routeId": "87",
+    "direction": "O",
+    "dest": {
+      "en": "Airport (Passenger Terminal Building) (Circular) ",
+      "tc": "機場 (客運大樓) (循環線) ",
+      "sc": "机场 (客运大楼) (循环线) "
+    },
+    "co": "NLB"
+  },
+  {
+    "route": "B6",
+    "routeId": "88",
+    "direction": "O",
+    "dest": {
+      "en": "Mun Tung Estate ",
+      "tc": "滿東邨 ",
+      "sc": "满东邨 "
+    },
+    "co": "NLB"
+  },
+  {
+    "route": "B6",
+    "routeId": "89",
+    "direction": "I",
+    "dest": {
+      "en": "HZMB Hong Kong Port",
+      "tc": "大橋香港口岸",
+      "sc": "大桥香港口岸"
+    },
+    "co": "NLB",
+    "region": "Mun Tung Estate > HZMB Hong Kong Port"
+  },
+  {
+    "route": "B6S",
+    "routeId": "111",
+    "direction": "O",
+    "dest": {
+      "en": "HZMB Hong Kong Port ",
+      "tc": "大橋香港口岸 ",
+      "sc": "大桥香港口岸 "
+    },
+    "co": "NLB"
+  },
+  {
+    "route": "N1",
+    "routeId": "40",
+    "direction": "O",
+    "dest": {
+      "en": "Tai O ",
+      "tc": "大澳 ",
+      "sc": "大澳 "
+    },
+    "co": "NLB"
+  },
+  {
+    "route": "N35",
+    "routeId": "92",
+    "direction": "O",
+    "dest": {
+      "en": "HZMB Hong Kong Port ",
+      "tc": "大橋香港口岸 ",
+      "sc": "大桥香港口岸 "
+    },
+    "co": "NLB"
+  },
+  {
+    "route": "N35",
+    "routeId": "93",
+    "direction": "I",
+    "dest": {
+      "en": "Mui Wo Ferry Pier",
+      "tc": "梅窩碼頭",
+      "sc": "梅窝码头"
+    },
+    "co": "NLB",
+    "region": "HZMB Hong Kong Port > Mui Wo Ferry Pier"
+  },
+  {
+    "route": "N37",
+    "routeId": "86",
+    "direction": "O",
+    "dest": {
+      "en": "Tung Chung Station Bus Terminus (Circular) ",
+      "tc": "東涌站巴士總站 (循環線) ",
+      "sc": "东涌站巴士总站 (循环线) "
+    },
+    "co": "NLB"
+  },
+  {
+    "route": "N38",
+    "routeId": "44",
+    "direction": "O",
+    "dest": {
+      "en": "Tung Chung Station Bus Terminus ",
+      "tc": "東涌站巴士總站 ",
+      "sc": "东涌站巴士总站 "
+    },
+    "co": "NLB"
+  },
+  {
+    "route": "N38",
+    "routeId": "45",
+    "direction": "O",
+    "dest": {
+      "en": "Yat Tung Estate ",
+      "tc": "逸東邨 ",
+      "sc": "逸东邨 "
+    },
+    "co": "NLB"
+  },
+  {
+    "route": "NB2",
+    "routeId": "110",
+    "direction": "O",
+    "dest": {
+      "en": "Yuen Long MTR Station (Circular) ",
+      "tc": "元朗港鐵站 (循環線) ",
+      "sc": "元朗港铁站 (循环线) "
+    },
+    "co": "NLB"
+  },
+  {
+    "route": "X11R",
+    "routeId": "108",
+    "direction": "O",
+    "dest": {
+      "en": "Tai O ",
+      "tc": "大澳 ",
+      "sc": "大澳 "
+    },
+    "co": "NLB"
+  },
+  {
+    "route": "X11R",
+    "routeId": "109",
+    "direction": "I",
+    "dest": {
+      "en": "Sheraton Hong Kong Tung Chung Hotel",
+      "tc": "東涌世茂喜來登酒店",
+      "sc": "东涌世茂喜来登酒店"
+    },
+    "co": "NLB",
+    "region": "Tai O > Sheraton Hong Kong Tung Chung Hotel"
+  }
+]
